@@ -1,0 +1,12 @@
+body{
+	background-image: linear-gradient(#cc6699,#ffcccc,#ffccff);
+}
+
+
+
+.portfolio{
+	width: 100%;
+}
+img{
+	width: 100px;
+}
